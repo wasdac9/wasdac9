@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tejas P Ramekar
 - 👀 I’m interested in Computer Vision, Deep Learning, Machine Learning
 - 🌱 I’m currently learning Computer Vision and Deep Learning
-- 📫 How to reach me tejasramekar@gmail.com
+- 📫 Email ID tejasramekar@gmail.com
 
 <!---
 wasdac9/wasdac9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
